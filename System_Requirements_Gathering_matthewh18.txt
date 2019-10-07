@@ -1,0 +1,10 @@
+What is in the database of student information?
+
+What specific statistics from the attendance needs to go on 
+the report card?
+
+How long is this record kept? For example, would the 5 absences
+in high school lose a student course credit over a year or over
+a semester?
+
+Should attendance be taken after lunch? 
