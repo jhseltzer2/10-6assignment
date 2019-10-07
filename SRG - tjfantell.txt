@@ -1,0 +1,26 @@
+Name: Thomas Fantell
+Revisor: Michael Gannon
+
+
+
+q1) How will the issue of too many users be handled?
+q1 feedback)
+
+q2) Where will the attendance be handled? At an office or each individual classroom?
+q2 feedback)
+
+q3) Who will recieve the output (attendance records)?
+q3 feedback)
+
+q4) How many classrooms need to send attendance each morning?
+q4 feedback)
+
+q5) How should the attendance info be handled? Individual student files or one big
+attendance file?
+q5 feedback)
+
+q6) When/How will the data need to be accessed?
+q6 feedback)
+
+q7) How are absences determined? Is it per period or per day?
+q7 feedback)
