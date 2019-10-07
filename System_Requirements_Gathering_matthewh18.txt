@@ -1,10 +1,22 @@
 What is in the database of student information?
 
+	Should personal information be included? 
+		Moral implications of a hack
+
+	Should school records be included?
+
 What specific statistics from the attendance needs to go on 
 the report card?
+
+	What should the format look like of the report card?
+
 
 How long is this record kept? For example, would the 5 absences
 in high school lose a student course credit over a year or over
 a semester?
 
+	How long should the database hold records of absences? Should a graduated student be able to see how many absences he/ she had in second grade or is that a waste of storage?
+
 Should attendance be taken after lunch? 
+
+	Can students leave for lunch if they come back? Should the attendence system account for this?
