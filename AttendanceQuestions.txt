@@ -1,11 +1,19 @@
 Michael Gannon
+Thomas Fantell
+
 1. Should the database reference attendance before and after lunch?
+Yes, middle schoolers are sneaking out during lunch. This will ensure they are caught before they get harmed.
 
 2. Should attendance be kept within the student report card, or sent separately and added?
+The information has to be on the report cards, so it should be added before they are sent out.
+What is necessary in order to do this?
 
 3. Should a students name be reported when their 5th absence is logged?
+In order to contact parents, the name should be included for when the call is made.
 
 4. Should the school get better wireless for the teachers?
+This depends. How many classrooms will there be? 40 classes can be run in primary school, and 130 can be run 
+in secondary school before the wireless speeds decrease.
 
 5. Should all teachers switch over to desktop or all to tablets?
-
+All teachers have desktops and only some have tablets, so making that the standard should be the best option to avoid confusion.
