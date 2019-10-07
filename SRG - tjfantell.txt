@@ -4,23 +4,23 @@ Revisor: Michael Gannon
 
 
 q1) How will the issue of too many users be handled?
-q1 feedback)
+q1 feedback) could we get better wireless?
 
 q2) Where will the attendance be handled? At an office or each individual classroom?
-q2 feedback)
+q2 feedback) Should all teachers be responsible for their own student?
 
 q3) Who will recieve the output (attendance records)?
-q3 feedback)
+q3 feedback) Could one teacher be in charge of all the records?
 
 q4) How many classrooms need to send attendance each morning?
-q4 feedback)
+q4 feedback) Could we give scheduled times to send attendance to relax the wifi?
 
 q5) How should the attendance info be handled? Individual student files or one big
 attendance file?
-q5 feedback)
+q5 feedback) If each student needs their record on report cards, shouldn't individual files be better?
 
 q6) When/How will the data need to be accessed?
-q6 feedback)
+q6 feedback) Would a good example of this be a teacher that takes care of all records?
 
 q7) How are absences determined? Is it per period or per day?
-q7 feedback)
+q7 feedback) Attendance is taken at each period, since students skip after lunch attendance should be per class, is there a better alternative?
